@@ -1,6 +1,7 @@
 # Google Search Page
 
-![](screen-output.png)
+![image](https://github.com/user-attachments/assets/e4d18d61-c589-4c8c-b84d-d941f1593125)
+
 
 This project is a simple Google search page created using only HTML and CSS. It aims to replicate the basic layout and design of Google's search interface.
 
